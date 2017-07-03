@@ -50,4 +50,4 @@ import RNSimInfo from 'react-native-sim-info';
 // TODO: What to do with the module?
 RNSimInfo;
 ```
-  
+  # react-native-sim-info
